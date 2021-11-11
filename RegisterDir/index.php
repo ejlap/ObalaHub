@@ -87,18 +87,6 @@
       <div class="text" style="margin-left: 1100px;">ObalaHub</div>
   </section>
   <script src="script.js"></script>
-
-<!--
-    <?php  if (isset($_SESSION['username'])) : ?>
-      <p align="center">Dobrodošao <strong><?php echo $_SESSION['username']; ?></strong></p>
-      <br>
-      <p align="center"> <a href="account.php" style="color: red;"><u>Prikazi račun<u/></a> </p>
-      <br>
-      <br>
-      <p align="center">
--->
-
- <!-- test test test teste teste test -->
 </div>
 <?php endif ?>  
 </body>
