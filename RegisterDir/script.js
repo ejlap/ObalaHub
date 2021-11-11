@@ -12,7 +12,6 @@ searchBtn.addEventListener("click", ()=>{
   menuBtnChange();
 });
 
-// following are the code to change sidebar button(optional)
 function menuBtnChange() {
  if(sidebar.classList.contains("open")){
    closeBtn.classList.replace("bx-menu", "bx-menu-alt-right");
