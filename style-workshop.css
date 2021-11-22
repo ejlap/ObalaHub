@@ -50,7 +50,7 @@ h1{
 .subforum-title
 {
   background-color: #292B2E;
-  padding:5px;
+  padding:10px;
   border-radius: 5px;
   margin: 4px;
 }
@@ -74,4 +74,17 @@ h1{
     width: 70px;
     height: 40px;
     padding: 20px;
+}
+footer{
+  position: fixed;
+  text-align: center;
+  padding: 5px 5px 5px 5px;
+  margin: 5px;
+  left: -10px;
+         bottom: 0;
+         width: 100%;
+
+         /* Height of the footer*/
+         height: 50px;
+         background: grey;
 }
